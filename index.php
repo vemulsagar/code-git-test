@@ -1,6 +1,6 @@
 <?php
 
 echo "learning git";
-echo "second line";
+echo "second line 1";
 
 ?>
